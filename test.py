@@ -1,27 +1,4 @@
 
-Conversation opened. 2 messages. All messages read.
-
-Skip to content
-Using Gmail with screen readers
-3 of 3,819
-statement (7).pdf
-Inbox
-
-Janis Strazdins
-AttachmentsWed, Oct 11, 12:50 PM (6 days ago)
- 
-
-Janis Strazdins <janis.strazdins@gmail.com>
-Attachments
-Mon, Oct 16, 5:10 PM (18 hours ago)
-to Janis
-
-
-
-On Wed, Oct 11, 2023 at 12:50 PM Janis Strazdins <dzanis@gmail.com> wrote:
-
- One attachment
-  •  Scanned by Gmail
 # -*- coding: utf-8 -*-
 
 
@@ -152,5 +129,4 @@ def main():
 
 if __name__ == '__main__':
   main()
-scraping barb.txt
-Displaying scraping barb.txt.
+
